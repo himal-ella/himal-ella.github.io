@@ -4,7 +4,8 @@ title: Ella Wood PhD Researcher
 permalink: /cv/
 ---
 
-## Education
+
+# Education
 
 **PhD Candidate in Geography** *University of St Andrews, Scotland & Bonn University, Germany, Oct 2022 – April 2026*
 
@@ -14,9 +15,11 @@ permalink: /cv/
 
 **Teaching Assistant** *Project Trust, Nepal, 2017 – 2018*
 
+
 ---
 
-## Technical Skills
+
+# Technical Skills
 
 * **Remote Sensing:** 4 years coding in Python (GDAL, rasterio, xdem, scipy, numpy).
 * **Geospatial Software:** Data visualisation in QGIS, ArcMap, and ArcGIS Pro.
@@ -26,16 +29,18 @@ permalink: /cv/
 
 ---
 
-## Additional Experience
+# Additional Experience
 
 * **University Demonstrator:** Across a range of tuturial, lab and field classes in Geography (2023-present).
 * **ESA Earth Observation Workshop**, Belgium (2025)
 * **COP29 Baku Cryosphere Pavilion:** Early Career Researcher volunteer with the International Climate Cryosphere Initiative (2024)
 * **Norwegian Polar Academy** Interdisciplinary summer scool on the Third Pole (2023)
+
   
   ---
 
-## Awards & Training
+
+# Awards
 
 * **RGS Postgraduate Research Award** (2024)
 * **Geographical Club Award** (2024)
@@ -43,9 +48,11 @@ permalink: /cv/
 •	**University Study Abroad 600th Anniversary Scholarship, Rector's Fund and Postgraduate Travel Award** (2023)
 •	**Recipient of a Global PhD scholarship between St Andrews University and Bonn University** (2022 - 2026)
 
+
   ---
 
-## Publications
+
+# Publications
 
 * **Wood et al. (2026)** Deciphering transitions within ice-debris complexes in the Northern Tien Shan. *Earth Surface Processes and Landforms* (Under review).
 * **Wood (2026)** Reflecting on the Legacy of our early polar explorers. *The Geographer*. (Accepted).
