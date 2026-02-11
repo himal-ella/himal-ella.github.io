@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: About
 ---
-# My Research
+# About
 Details about my projects go here.
