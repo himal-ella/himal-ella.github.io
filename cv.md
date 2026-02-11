@@ -1,28 +1,26 @@
 ---
 layout: page
-title: CV
+title: Ella Wood PhD Researcher
 permalink: /cv/
 ---
 
-# Ella Wood PhD Researcher
-
 ## Education
 
-**PhD Candidate in Geography** *University of St Andrews, Scotland & Bonn University, Germany* | Oct 2022 – April 2026
+**PhD Candidate in Geography** *University of St Andrews, Scotland & Bonn University, Germany, Oct 2022 – April 2026*
 
-**MSc (Res) Polar and Alpine Change** *University of Sheffield* | 2021 – 2022
+**MSc (Res) Polar and Alpine Change** *University of Sheffield, 2021 – 2022*
 
-**BSc Physical Geography** *University of Leeds* | 2018 – 2021
+**BSc Physical Geography** *University of Leeds, 2018 – 2021*
 
-**Teaching Assistant** *Project Trust, Nepal* | 2017 – 2018
+**Teaching Assistant** *Project Trust, Nepal, 2017 – 2018*
 
 ---
 
 ## Technical Skills
 
-* **Remote Sensing:** 4 years coding in **Python** (GDAL, rasterio, xdem, scipy, numpy).
+* **Remote Sensing:** 4 years coding in Python (GDAL, rasterio, xdem, scipy, numpy).
 * **Geospatial Software:** Data visualisation in QGIS, ArcMap, and ArcGIS Pro.
-* **Geophysics:** Acquisition and processing of Ground Penetrating Radar (GPR) and Electrical Resistivity Tomography (ERT) data.
+* **Geophysics:** Experience working with Ground Penetrating Radar (GPR) and Electrical Resistivity Tomography (ERT) methods
 * **Project Management:** Field expedition organisation
 * **Scientific writing** Techncical writing for publications and grant applications
 
@@ -33,7 +31,7 @@ permalink: /cv/
 * **University Demonstrator:** Across a range of tuturial, lab and field classes in Geography (2023-present).
 * **ESA Earth Observation Workshop**, Belgium (2025)
 * **COP29 Baku Cryosphere Pavilion:** Early Career Researcher volunteer with the International Climate Cryosphere Initiative (2024)
-* **Norwegian Polar Academy**, Svalbard (2025)
+* **Norwegian Polar Academy** Interdisciplinary summer scool on the Third Pole (2023)
   
   ---
 
