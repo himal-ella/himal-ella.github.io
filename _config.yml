@@ -1,9 +1,10 @@
 title: Himal Ella
-theme: minima
+remote_theme: jekyll/minima
 
-# Navigation settings
+minima:
+  skin: dark
+
 header_pages:
-  - index.md
   - about.md
   - cv.md
   - contact.md
