@@ -74,10 +74,15 @@ layout: null
 </head>
 <body>
 
-<div class="nav-container">
-    <a href="about" class="nav-item">ABOUT</a>
-    <a href="cv" class="nav-item">CV</a>
-    <a href="contact" class="nav-item">CONTACT</a>
+<div class="bg">
+    <h1>Ella Wood</h1>
+    <p>PhD researcher | Remote Sensing | Python | Earth System Processes</p>
+
+    <div class="nav-container">
+        <a href="/about/" class="nav-item">ABOUT</a>
+        <a href="/cv/" class="nav-item">CV</a>
+        <a href="/contact/" class="nav-item">CONTACT</a>
+    </div>
 </div>
 
 </body>
