@@ -1,10 +1,6 @@
 title: Ella Wood
 theme: minima
 
-# Enable the dark skin
-minima:
-  skin: dark
-
 # Navigation settings
 header_pages:
   - index.md
