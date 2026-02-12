@@ -4,10 +4,10 @@ remote_theme: jekyll/minima
 # This section prevents the "Subscribe" button from generating
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap 
 
 minima:
   skin: dark
-  social_links: [] # This removes all footer icons, including the RSS symbol
 
 header_pages:
   - about.md
