@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 <div style="display: block; overflow: auto; margin-top: 20px;">
-    <img src="/ella.jpg" alt="Ella Wood" style="width: 280px; float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <img src="/profile.jpg" alt="Ella Wood" style="width: 280px; float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
 
-I am a final year PhD researcher with expertise in remote sensing, geospatial analysis and geophysical field techniques applied to environmental research. I have a strong foundation in Python and GIS, a track record in academic publishing and experience working in remote field environments.
+    <p style="margin-bottom: 1.5em;">I am a final year PhD researcher with expertise in remote sensing, geospatial analysis and geophysical field techniques applied to environmental research. I have a strong foundation in Python and GIS, a track record in academic publishing and experience working in remote field environments.</p>
 
-My PhD research looks at the evolution of ice within deglaciating mountain landscapes in Central Asia using integrated remote sensing and geophysical methods.
+    <p style="margin-bottom: 1.5em;">My PhD research looks at the evolution of ice within deglaciating mountain landscapes in Central Asia using integrated remote sensing and geophysical methods.</p>
 
-I have a background in Physical Geography and am in interested in interdisciplinary and policy orientated science. I am looking for opportunities in geopsatial analysis and environmental management after completing my PhD in spring / summer 2026.
+    <p>I have a background in Physical Geography and am interested in interdisciplinary and policy orientated science. I am looking for opportunities in geospatial analysis and environmental management after completing my PhD in spring / summer 2026.</p>
 </div>
