@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="display: block; overflow: auto; margin-top: 20px;">
-    <img src="/profile.jpg" alt="Ella Wood" style="width: 280px; float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
+    <img src="/ella.jpg" alt="Ella Wood" style="width: 280px; float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
 
     <p style="margin-bottom: 1.5em;">I am a final year PhD researcher with expertise in remote sensing, geospatial analysis and geophysical field techniques applied to environmental research. I have a strong foundation in Python and GIS, a track record in academic publishing and experience working in remote field environments.</p>
 
