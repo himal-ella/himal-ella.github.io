@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+description: PhD researcher in Remote Sensing and Earth System Processes at the University of St Andrews.
+keywords: Remote Sensing, Python, Glaciology, Central Asia, Geospatial Analysis
 permalink: /about/
 ---
 
