@@ -7,7 +7,8 @@ remote_theme: jekyll/minima
 # This section prevents the "Subscribe" button from generating
 plugins:
   - jekyll-remote-theme
-  - jekyll-sitemap 
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 minima:
   skin: dark
