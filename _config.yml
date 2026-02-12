@@ -1,6 +1,10 @@
 title: Himal Ella
 remote_theme: jekyll/minima
 
+# This section prevents the "Subscribe" button from generating
+plugins:
+  - jekyll-remote-theme
+
 minima:
   skin: dark
   social_links: [] # This removes all footer icons, including the RSS symbol
