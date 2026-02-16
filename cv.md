@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 ---
 
 
@@ -22,10 +23,10 @@ permalink: /cv/
 <h1 style="font-size: 1.5rem;">Technical Skills</h1>
 
 * **Remote Sensing:** 4 years coding experience in Python for geospatial analysis
-* **Geospatial Software:** Data visualisation and manipluation in QGIS, ArcMap, and ArcGIS Pro.
+* **Geospatial Software:** Data visualisation and manipulation in QGIS, ArcMap, and ArcGIS Pro.
 * **Geophysics:** Experience working with Ground Penetrating Radar (GPR) and Electrical Resistivity Tomography (ERT) methods
-* **Research Project Management:** Includng funding aquisition and field expedition organisation
-* **Scientific writing** Techncical writing for publications and grant applications
+* **Research Project Management:** Including funding acquisition and field expedition organisation
+* **Scientific Writing** Technical writing for publications and grant applications
 
 ---
 
@@ -33,7 +34,7 @@ permalink: /cv/
 <h1 style="font-size: 1.5rem;">Additional Experience</h1>
 
 * **University Teaching Assistant:** For a range of tutorial, lab and field classes in Geography (2023-present).
-* **ESA Earth Observation Workshop** Traning in optical and radar remote sensing techniques (Belgium, 2025)
+* **ESA Earth Observation Workshop** Training in optical and radar remote sensing techniques (Belgium, 2025)
 * **Cryosphere Pavilion at COP29** Early Career Researcher volunteer with the International Climate Cryosphere Initiative (2024)
 * **Norwegian Polar Academy** Participant in an interdisciplinary summer school on the Third Pole (2023)
   
@@ -46,7 +47,7 @@ permalink: /cv/
 * **Geographical Club Award** (2024)
 * **International Glaciology Society Early Career Conference Grant** (2024)
 * **University Study Abroad 600th Anniversary Scholarship, Rector's Fund and Postgraduate Travel Award** (2023)
-* **Recipient of a Global PhD scholarship between St Andrews University and Bonn University** (2022 - 2026)
+* **Recipient of a Global PhD scholarship between University of St Andrews and Bonn University** (2022 - 2026)
 
 
 ---
@@ -58,7 +59,7 @@ permalink: /cv/
 * British Society for Geomorphology conference, Leeds (2025)
 * Rock Glacier Inventory and Kinematics seminar series [invited] (2025)
 * The University of Edinburgh Land Surface Dynamics seminar series [invited] (2025)
-* European Geophysical Union conference, Vienna (2024, 2025).
+* European Geophysical Union conference, Vienna (2024, 2025)
 * International Glaciology Society British Branch meeting (2022, 2023, 2024)
 
 
