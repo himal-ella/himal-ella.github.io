@@ -68,9 +68,9 @@ keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 
 <h1 style="font-size: 1.5rem;">Publications</h1>
 
-* **Wood** (2026) Reflecting on the Legacy of our early polar explorers. *The Geographer* (Magazine of the Royal Scottish Geographical Society). Issue on the Cryosphere. (Accepted)
-* Popovaitė, Bachmann-Vargas, **Wood**, Hübner, Kavvatha, Duncan, Lauzon (2026) Notes from the field: An interdisciplinary perspective on the experiences, challenges and solutions for conducting fieldwork in glacial and periglacial environments. *Nordia Geographical Publications* (Accepted)
-* Sun, Liu, Fan, Hu, Baldacchino, Bhattacharya, **Wood**, and Bolch. (2025). Unveiling large-scale velocity characteristics of rock glaciers in the Tibet-Pamir-Karakoram region using InSAR. *International Journal of Applied Earth Observation and Geoinformation* 142:104733.
-* **Wood**, Bolch and Streeter (2025) Insights from feature tracking of optical satellite data for studying rock glacier kinematics in the Northern Tien Shan. *Front. Earth Sci.* 12:1518390. 
+* **Wood** (2026) Reflecting on the Legacy of our early polar explorers. *The Geographer* (Magazine of the Royal Scottish Geographical Society). Issue on the Cryosphere.
+* Popovaitė, Bachmann-Vargas, **Wood**, Hübner, Kavvatha, Duncan, Lauzon (2026) Notes from the field: An interdisciplinary perspective on the experiences, challenges and solutions for conducting fieldwork in glacial and periglacial environments. *Nordia Geographical Publications* https://doi.org/10.30671/nordia.163065
+* Sun, Liu, Fan, Hu, Baldacchino, Bhattacharya, **Wood**, and Bolch. (2025). Unveiling large-scale velocity characteristics of rock glaciers in the Tibet-Pamir-Karakoram region using InSAR. *International Journal of Applied Earth Observation and Geoinformation* 142:104733. https://doi.org/10.1016/j.jag.2025.104733
+* **Wood**, Bolch and Streeter (2025) Insights from feature tracking of optical satellite data for studying rock glacier kinematics in the Northern Tien Shan. *Front. Earth Sci.* 12:1518390. https://doi.org/10.3389/feart.2024.1518390
 
 
