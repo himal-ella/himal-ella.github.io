@@ -8,7 +8,9 @@ keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 
 <h1 style="font-size: 1.5rem;">Education</h1>
 
-**PhD Candidate in Geography** *University of St Andrews & Bonn University, October 2022 – April 2026*
+**Field and lab technician in Physical Geography** *University of St Andrews, August 2026 - present*
+
+**PhD in Glaciology** *University of St Andrews & Bonn University, October 2022 – July 2026*
 
 **MSc (Res) Polar and Alpine Change** *University of Sheffield, 2021 – 2022*
 
@@ -24,7 +26,7 @@ keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 
 * **Remote Sensing:** 4 years coding experience in Python for geospatial analysis
 * **Geospatial Software:** Data visualisation and manipulation in QGIS, ArcMap, and ArcGIS Pro.
-* **Geophysics:** Experience working with Ground Penetrating Radar (GPR) and Electrical Resistivity Tomography (ERT) methods
+* **Geophysics:** Experience collecting and processing Ground Penetrating Radar (GPR) and Electrical Resistivity Tomography (ERT) data
 * **Research Project Management:** Including funding acquisition and field expedition organisation
 * **Scientific Writing** Technical writing for publications and grant applications
 
@@ -68,6 +70,7 @@ keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 
 <h1 style="font-size: 1.5rem;">Publications</h1>
 
+* **Wood** (2026) Deciphering transitions within ice–debris complexes in the Northern Tien Shan through surface characteristics and internal structure. *Earth Surface Processes and Landforms*  https://doi.org/10.1002/esp.70309
 * **Wood** (2026) Reflecting on the Legacy of our early polar explorers. *The Geographer* (Magazine of the Royal Scottish Geographical Society). Issue on the Cryosphere.
 * Popovaitė, Bachmann-Vargas, **Wood**, Hübner, Kavvatha, Duncan, Lauzon (2026) Notes from the field: An interdisciplinary perspective on the experiences, challenges and solutions for conducting fieldwork in glacial and periglacial environments. *Nordia Geographical Publications* https://doi.org/10.30671/nordia.163065
 * Sun, Liu, Fan, Hu, Baldacchino, Bhattacharya, **Wood**, and Bolch. (2025). Unveiling large-scale velocity characteristics of rock glaciers in the Tibet-Pamir-Karakoram region using InSAR. *International Journal of Applied Earth Observation and Geoinformation* 142:104733. https://doi.org/10.1016/j.jag.2025.104733
