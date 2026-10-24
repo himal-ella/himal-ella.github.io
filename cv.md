@@ -6,7 +6,7 @@ keywords: Ella Wood, Glaciologist, Remote Sensing, St Andrews, Glaciology, PhD
 ---
 
 
-<h1 style="font-size: 1.5rem;">Education</h1>
+<h1 style="font-size: 1.5rem;">Experience and education</h1>
 
 **Field and lab technician in Physical Geography** *University of St Andrews, August 2026 - present*
 
